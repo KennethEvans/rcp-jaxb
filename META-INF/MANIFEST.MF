@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: JAXB Simple
-Bundle-SymbolicName: net.kenevans.jaxb
+Bundle-SymbolicName: net.kenevans.rcp.jaxb
 Bundle-Version: 2.2.1
 Bundle-ClassPath: activation.jar,
  jaxb1-impl.jar,
